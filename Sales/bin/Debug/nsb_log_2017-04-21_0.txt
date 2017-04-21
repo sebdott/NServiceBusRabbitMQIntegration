@@ -1,0 +1,1242 @@
+﻿2017-04-21 08:08:30.436 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 08:08:30.657 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 08:08:31.304 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 08:08:31.360 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:31.364 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:31.366 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:36.900 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = e9e07d9d-bc82-41c2-84a9-97202eb549c5
+2017-04-21 08:08:42.854 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-04-21 08:08:42.884 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-04-21 08:08:50.204 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 08:08:50.399 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 08:08:51.480 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 08:08:51.525 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:51.528 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:51.530 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:08:51.902 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = e5d377e4-e03f-4cca-a47c-e379e2c0f5b0
+2017-04-21 08:08:54.561 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = a9f085af-d5b3-4c05-a600-42c4f6e9c231
+2017-04-21 08:08:59.064 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 8721586c-5bfd-4ba0-8977-d8dbdb27ee23
+2017-04-21 08:09:01.406 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 90d59abd-0d30-41ee-8f04-50126b38a4ce
+2017-04-21 08:09:01.913 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3e78211a-dc36-47c8-8e3d-71615d7c7e6c
+2017-04-21 08:09:02.218 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 8aa2e5c9-19a1-4752-8074-02df669eaeba
+2017-04-21 08:09:02.617 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 04397727-6431-4c2f-8dd6-54e5e439d365
+2017-04-21 08:09:02.962 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = aad01b70-1da2-4920-9ba3-07aa6631818c
+2017-04-21 08:11:22.879 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 08:11:23.025 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 08:11:23.330 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 08:11:23.370 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:11:23.374 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:11:23.376 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:11:34.823 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 768372bb-b893-4abc-96b5-88457c2e1fc5
+2017-04-21 08:12:22.197 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales.Timeouts MessagePump' is now in the armed state
+2017-04-21 08:12:22.197 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales.TimeoutsDispatcher MessagePump' is now in the armed state
+2017-04-21 08:12:22.274 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales.Retries MessagePump' is now in the armed state
+2017-04-21 08:12:22.257 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales MessagePump' is now in the armed state
+2017-04-21 08:12:22.317 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3b6eb917-72d4-406a-98da-0b2aebc9dc90
+2017-04-21 08:12:23.244 WARN  NServiceBus.Transport.RabbitMQ.MessagePump Failed to acknowledge message 'a0e8dbea-6077-42dd-807d-a75c00034d9a' because the channel was closed. The message was returned to the queue.
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text="Unexpected Exception", classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Impl.SessionBase.Transmit(Command cmd)
+   at RabbitMQ.Client.Impl.ModelBase.ModelSend(MethodBase method, ContentHeaderBase header, Byte[] body)
+   at RabbitMQ.Client.Impl.RecoveryAwareModel.BasicAck(UInt64 deliveryTag, Boolean multiple)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicAck(UInt64 deliveryTag, Boolean multiple)
+   at NServiceBus.Transport.RabbitMQ.ModelExtensions.<>c.<BasicAckSingle>b__1_0(Object state) in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\ModelExtensions.cs:line 21
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 267
+2017-04-21 08:12:27.291 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-04-21 08:12:35.051 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales.Timeouts MessagePump' is now disarmed
+2017-04-21 08:12:35.055 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales MessagePump' is now disarmed
+2017-04-21 08:12:35.082 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Sales.TimeoutsDispatcher MessagePump' is now disarmed
+2017-04-21 08:12:35.169 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 08:12:35.303 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 08:12:35.311 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:12:35.317 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:12:35.320 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:12:37.906 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-04-21 08:12:37.931 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-04-21 08:50:25.428 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 08:50:25.587 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 08:50:25.868 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 08:50:25.924 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:50:25.927 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:50:25.929 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 08:50:30.388 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = a759df6c-1221-4132-95d0-ebe286e987af
+2017-04-21 08:50:30.390 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3b6eb917-72d4-406a-98da-0b2aebc9dc90
+2017-04-21 08:50:39.409 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 71d4d6ac-b303-4e99-a9f9-7636493fdb0f
+2017-04-21 08:50:42.571 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 8f8373b8-da40-401c-b0ff-6fab50a83215
+2017-04-21 08:50:51.138 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3f3213f0-a22e-40cd-b116-4adf9f5e5373
+2017-04-21 09:18:52.868 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:18:53.072 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:18:53.351 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:18:53.388 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:18:53.391 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:18:53.394 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:18:56.514 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = f7b03119-ffcf-4e36-9f90-81a681d1a42e
+2017-04-21 09:19:08.728 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3d624639-65a5-4f43-887c-8885de2f1301
+2017-04-21 09:19:09.519 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = a329b6b0-1e00-4e19-a45b-bf1ad1ec5278
+2017-04-21 09:19:09.873 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7dfc2033-3fe8-47b0-9b89-5e7ec4767eb4
+2017-04-21 09:19:10.113 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 30bc6821-18bd-4bff-9895-066841f48e9e
+2017-04-21 09:19:10.273 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = b454e24c-1af3-40da-acb2-a0f4bc6cbe95
+2017-04-21 09:19:10.466 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 653e55da-b5a0-42e3-b291-3fdee7668535
+2017-04-21 09:19:10.649 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 2961d90b-7ae8-4f0e-95b4-b2505a8c0484
+2017-04-21 09:19:10.857 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 19079c07-c2e9-4f45-8fa7-ef18a8fa7767
+2017-04-21 09:19:11.025 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 45adfabe-df01-4d2f-8922-3d50dcab24b3
+2017-04-21 09:20:09.917 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:20:10.122 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:20:10.501 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:20:10.539 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:20:10.541 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:20:10.543 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:40:02.681 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:40:02.867 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:40:03.287 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:40:03.326 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:40:03.328 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:40:03.330 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:40:06.725 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = a7f77c5b-a88d-4534-a2ef-0a6e87cf232c
+2017-04-21 09:41:20.214 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:41:20.457 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:41:21.030 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:41:21.092 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:41:21.124 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:41:21.170 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:43:34.813 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:43:35.005 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:43:35.595 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:43:35.666 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:43:35.698 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:43:35.707 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:47:00.253 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:47:00.706 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:47:01.530 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:47:01.615 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:47:01.689 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:47:01.709 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:47:02.288 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = fcba4a02-0cce-4614-b41d-52add47e8aec
+2017-04-21 09:47:02.293 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = b17ea8b2-4a2b-42f0-bc22-6382dee8667e
+2017-04-21 09:53:17.003 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:53:17.199 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:53:17.702 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:53:17.758 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:53:17.765 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:53:17.771 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:03.091 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:54:03.329 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:54:03.703 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:54:03.743 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:03.745 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:03.747 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:23.416 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:54:23.601 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:54:24.072 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:54:24.112 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:24.115 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:24.116 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:54:27.662 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 034fd95e-3250-4ebc-ba8f-25097785207f
+2017-04-21 09:54:38.183 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 06aa2f94-f8cb-4636-a484-ff8edf1c432a
+2017-04-21 09:54:38.918 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = adddde44-e49c-475d-b999-069d3db3b57b
+2017-04-21 09:54:39.262 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = b17dc952-0a7d-404f-9d9f-953ee1a4f125
+2017-04-21 09:54:39.455 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = cbfb024f-96b7-4acd-bc0a-7b6d19f38112
+2017-04-21 09:54:39.656 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = b374a788-babc-47b8-8b82-18311645bad7
+2017-04-21 09:54:39.833 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 08d26268-94c8-4bd0-95e9-10ba918b7451
+2017-04-21 09:54:40.009 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = c4309ebe-05b8-4b99-908e-977f7b6cae89
+2017-04-21 09:56:48.814 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 09:56:49.027 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 09:56:49.494 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 09:56:49.536 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:56:49.539 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:56:49.541 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 09:56:52.205 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 622d0650-8321-4aa3-a1ef-5dbd33bd607c
+2017-04-21 10:29:10.688 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 10:29:10.871 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 10:29:11.309 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 10:29:11.361 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:29:11.367 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:29:11.371 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:29:17.676 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.702 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<InvokeIncomingMessageMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 44
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 62
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<InvokeIncomingTransportMessagesMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 43
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:17.715 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.717 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:17.726 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.731 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:17.742 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.745 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:17.755 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.757 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:17.767 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:17.772 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message 'f905037c-5dc2-4001-ae68-a75c002900fb' after a delay of 00:00:10 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.536 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.562 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.573 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.575 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.588 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.591 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.602 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.604 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.614 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.620 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:28.627 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:28.633 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message 'f905037c-5dc2-4001-ae68-a75c002900fb' after a delay of 00:00:20 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.642 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.646 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.659 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.661 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.674 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.676 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.687 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.690 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.700 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.703 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:29:49.711 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:29:49.713 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message 'f905037c-5dc2-4001-ae68-a75c002900fb' after a delay of 00:00:30 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.190 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.192 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.199 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.204 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.218 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.220 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.233 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.235 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.244 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.246 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'f905037c-5dc2-4001-ae68-a75c002900fb' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:30:50.257 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:30:50.260 ERROR NServiceBus.RecoverabilityExecutor Moving message 'f905037c-5dc2-4001-ae68-a75c002900fb' to the error queue 'error' because processing failed due to an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:34:09.252 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 10:34:09.475 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 10:34:09.936 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 10:34:09.981 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:34:09.983 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:34:09.985 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:34:18.506 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 0b035a17-78d2-4464-83ad-4919daa4b880
+2017-04-21 10:34:18.527 ERROR NServiceBus.RecoverabilityExecutor Moving message '2f4c2b98-f1ab-4faa-9097-a75c002a6188' to the error queue 'error' because processing failed due to an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<InvokeIncomingMessageMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 44
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 62
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<InvokeIncomingTransportMessagesMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 43
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:37:08.874 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 10:37:09.085 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 10:37:09.465 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 10:37:09.508 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:37:09.511 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:37:09.515 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-04-21 10:37:15.796 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 34dba537-3c43-471d-9a55-bb92bca176ea
+2017-04-21 10:37:15.817 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message '621df53f-a7d4-4f2a-bef5-a75c002b314b' after a delay of 00:00:03 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<InvokeIncomingMessageMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 44
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 62
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<InvokeIncomingTransportMessagesMutators>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\MessageMutators\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 43
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:37:19.643 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 34dba537-3c43-471d-9a55-bb92bca176ea
+2017-04-21 10:37:19.646 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message '621df53f-a7d4-4f2a-bef5-a75c002b314b' after a delay of 00:00:06 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:37:25.701 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 34dba537-3c43-471d-9a55-bb92bca176ea
+2017-04-21 10:37:25.704 WARN  NServiceBus.RecoverabilityExecutor Delayed Retry will reschedule message '621df53f-a7d4-4f2a-bef5-a75c002b314b' after a delay of 00:00:09 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:38:26.048 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 34dba537-3c43-471d-9a55-bb92bca176ea
+2017-04-21 10:38:26.051 ERROR NServiceBus.RecoverabilityExecutor Moving message '621df53f-a7d4-4f2a-bef5-a75c002b314b' to the error queue 'error' because processing failed due to an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\PlaceOrderHandler.cs:line 40
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 41
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\3206e2123f54fce4\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 248
+2017-04-21 10:58:19.650 INFO  DefaultFactory Logging to 'C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\' with level Info
+2017-04-21 10:58:19.865 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 4/20/2017.
+2017-04-21 10:58:20.217 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'ASIA-PACIFIC\Sebastian_W' to group 'Performance Monitor Users' because the user is already in group.
+2017-04-21 10:58:24.726 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = ba7d46e2-6857-4de3-b7de-5d4f9d472ab1
+2017-04-21 10:59:11.286 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 0b035a17-78d2-4464-83ad-4919daa4b880
+2017-04-21 10:59:11.296 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c9b1151-3c38-4389-a6fe-25a11e79651b
+2017-04-21 10:59:11.316 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 34dba537-3c43-471d-9a55-bb92bca176ea

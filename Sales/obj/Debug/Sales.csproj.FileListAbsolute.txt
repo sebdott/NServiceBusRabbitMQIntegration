@@ -1,0 +1,15 @@
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\Sales.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\Sales.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\Messages.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Core.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\Messages.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Core.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Core.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\obj\Debug\Sales.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\obj\Debug\Sales.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\RabbitMQ.Client.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\NServiceBus.Transports.RabbitMQ.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Sales\bin\Debug\RabbitMQ.Client.xml

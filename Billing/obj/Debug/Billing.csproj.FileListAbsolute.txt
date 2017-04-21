@@ -1,0 +1,16 @@
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\Billing.exe.config
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\Billing.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\Billing.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\Messages.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Core.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\RabbitMQ.Client.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\Messages.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Core.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Core.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\NServiceBus.Transports.RabbitMQ.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\bin\Debug\RabbitMQ.Client.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\obj\Debug\Billing.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Billing\obj\Debug\Billing.pdb

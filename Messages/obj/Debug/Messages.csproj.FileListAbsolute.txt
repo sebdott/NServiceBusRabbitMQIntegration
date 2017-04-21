@@ -1,0 +1,7 @@
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\bin\Debug\Messages.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\bin\Debug\Messages.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\bin\Debug\NServiceBus.Core.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\obj\Debug\Messages.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Messages\obj\Debug\Messages.pdb

@@ -1,0 +1,16 @@
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\Shipping.exe.config
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\Shipping.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\Shipping.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\Messages.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Core.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\RabbitMQ.Client.dll
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\Messages.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Core.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Core.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\NServiceBus.Transports.RabbitMQ.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\bin\Debug\RabbitMQ.Client.xml
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\obj\Debug\Shipping.csprojResolveAssemblyReference.cache
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\obj\Debug\Shipping.exe
+C:\Sebastian\Project\intro-to-nservicebus-3-multiple-endpoints\Shipping\obj\Debug\Shipping.pdb

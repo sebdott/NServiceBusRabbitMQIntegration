@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NServiceBus.Transports.RabbitMQ</name>
+    </assembly>
+    <members>
+        <member name="T:NServiceBus.Transport.RabbitMQ.DelayedDeliverySettings">
+            <summary>
+            The delayed delivery settings.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.DelayedDeliverySettings.DisableTimeoutManager">
+            <summary>
+            Disables the timeout manager for this endpoint.
+            <para>
+            The timeout manager can be disabled once all preexisting timeouts stored in the persistence for this endpoint have expired.
+            </para>
+            </summary>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.DelayedDeliverySettings.AllEndpointsSupportDelayedDelivery">
+            <summary>
+            Tells the endpoint that all other endpoints can manage their own bindings to the delay infrastructure.
+            </summary>
+        </member>
+        <member name="T:NServiceBus.Transport.RabbitMQ.IDeclareQueues">
+            <summary>
+            An extension for <see cref="T:NServiceBus.Transport.RabbitMQ.IRoutingTopology"/> implementations which allows
+            control over the declaration of queues as well as other initialization.
+            The <see cref="M:NServiceBus.Transport.RabbitMQ.IDeclareQueues.DeclareAndInitialize(RabbitMQ.Client.IModel,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"/> method will be called
+            on all implementations instead of the <see cref="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.Initialize(RabbitMQ.Client.IModel,System.String)"/> method.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IDeclareQueues.DeclareAndInitialize(RabbitMQ.Client.IModel,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            Declares queues and performs any other initialization logic needed (e.g. creating exchanges and bindings).
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="receivingAddresses">
+            The addresses of the queues to declare and perform initialization for, that this endpoint is receiving from.
+            </param>
+            <param name="sendingAddresses">
+            The addresses of the queues to declare and perform initialization for, that this endpoint is sending to.
+            </param>
+        </member>
+        <member name="T:NServiceBus.Transport.RabbitMQ.ISupportDelayedDelivery">
+            <summary>
+            An extension for <see cref="T:NServiceBus.Transport.RabbitMQ.IRoutingTopology"/> implementations which allows
+            for receiving messages from the delay infrastructure.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.ISupportDelayedDelivery.BindToDelayInfrastructure(RabbitMQ.Client.IModel,System.String,System.String,System.String)">
+            <summary>
+            Binds an address to the delay infrastructure's delivery exchange.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="address">The address that needs to be bound to the delivery exchange.</param>
+            <param name="deliveryExchange">The name of the delivery exchange.</param>
+            <param name="routingKey">The routing key required for the binding.</param>
+        </member>
+        <member name="T:NServiceBus.Transport.RabbitMQ.DirectRoutingTopology">
+            <summary>
+            Route using a static routing convention for routing messages from publishers to subscribers using routing keys.
+            </summary>
+        </member>
+        <member name="T:NServiceBus.Transport.RabbitMQ.IRoutingTopology">
+            <summary>
+            Topology for routing messages on the transport.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.SetupSubscription(RabbitMQ.Client.IModel,System.Type,System.String)">
+            <summary>
+            Sets up a subscription for the subscriber to the specified type.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="type">The type to subscribe to.</param>
+            <param name="subscriberName">The name of the subscriber.</param>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.TeardownSubscription(RabbitMQ.Client.IModel,System.Type,System.String)">
+            <summary>
+            Removes a subscription for the subscriber to the specified type.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="type">The type to unsubscribe from.</param>
+            <param name="subscriberName">The name of the subscriber.</param>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.Publish(RabbitMQ.Client.IModel,System.Type,NServiceBus.Transport.OutgoingMessage,RabbitMQ.Client.IBasicProperties)">
+            <summary>
+            Publishes a message of the specified type.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="type">The type of the message to be published.</param>
+            <param name="message">The message to publish.</param>
+            <param name="properties">The RabbitMQ properties of the message to publish.</param>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.Send(RabbitMQ.Client.IModel,System.String,NServiceBus.Transport.OutgoingMessage,RabbitMQ.Client.IBasicProperties)">
+            <summary>
+            Sends a message to the specified endpoint.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="address">The address of the destination endpoint.</param>
+            <param name="message">The message to send.</param>
+            <param name="properties">The RabbitMQ properties of the message to send.</param>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.RawSendInCaseOfFailure(RabbitMQ.Client.IModel,System.String,System.Byte[],RabbitMQ.Client.IBasicProperties)">
+            <summary>
+            Sends a raw message body to the specified endpoint.
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="address">The address of the destination endpoint.</param>
+            <param name="body">The raw message body to send.</param>
+            <param name="properties">The RabbitMQ properties of the message to send.</param>
+        </member>
+        <member name="M:NServiceBus.Transport.RabbitMQ.IRoutingTopology.Initialize(RabbitMQ.Client.IModel,System.String)">
+            <summary>
+            Performs any initialization logic needed (e.g., creating exchanges and bindings).
+            </summary>
+            <param name="channel">The RabbitMQ channel to operate on.</param>
+            <param name="main">The name of the queue to perform initialization on.</param>
+        </member>
+        <member name="T:NServiceBus.Transport.RabbitMQ.ConventionalRoutingTopology">
+            <summary>
+            Implements the RabbitMQ routing topology as described at http://codebetter.com/drusellers/2011/05/08/brain-dump-conventional-routing-in-rabbitmq/
+            take 4:
+            <list type="bullet">
+            <item><description>we generate an exchange for each queue so that we can do direct sends to the queue. it is bound as a fanout exchange</description></item>
+            <item><description> for each message published we generate series of exchanges that go from concrete class to each of its subclass
+            / interfaces these are linked together from most specific to least specific. This way if you subscribe to the base interface you get
+            all the messages. or you can be more selective. all exchanges in this situation are bound as fanouts.</description></item>
+            <item><description>the subscriber declares his own queue and his queue exchange –
+            he then also declares/binds his exchange to each of the message type exchanges desired</description></item>
+            <item><description> the publisher discovers all of the exchanges needed for a given message, binds them all up
+            and then pushes the message into the most specific queue letting RabbitMQ do the fanout for him. (One publish, multiple receivers!)</description></item>
+            <item><description>we generate an exchange for each queue so that we can do direct sends to the queue. it is bound as a fanout exchange</description></item>
+            </list>
+            </summary>
+        </member>
+        <member name="T:NServiceBus.RabbitMQTransport">
+            <summary>
+            Transport definition for RabbitMQ.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransport.Initialize(NServiceBus.Settings.SettingsHolder,System.String)">
+            <summary>
+            Initializes all the factories and supported features for the transport.
+            </summary>
+            <param name="settings">An instance of the current settings.</param>
+            <param name="connectionString">The connection string.</param>
+            <returns>The supported factories.</returns>
+        </member>
+        <member name="P:NServiceBus.RabbitMQTransport.ExampleConnectionStringForErrorMessage">
+            <summary>
+            Gets an example connection string to use when reporting the lack of a configured connection string to the user.
+            </summary>
+        </member>
+        <member name="T:NServiceBus.RabbitMQTransportSettingsExtensions">
+            <summary>
+            Adds access to the RabbitMQ transport config to the global Transports object.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.UseRoutingTopology(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Func{System.Boolean,NServiceBus.Transport.RabbitMQ.IRoutingTopology})">
+            <summary>
+            Registers a custom routing topology.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="topologyFactory">The function used to create the routing topology instance. The parameter of the function indicates whether exchanges and queues declared by the routing topology should be durable.</param>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.UseDirectRoutingTopology(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Func{System.Type,System.String},System.Func{System.String,System.Type,System.String})">
+            <summary>
+            Uses the direct routing topology with the specified conventions.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="routingKeyConvention">The routing key convention.</param>
+            <param name="exchangeNameConvention">The exchange name convention.</param>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.UseRoutingTopology``1(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport})">
+            <summary>
+            Registers a custom routing topology.
+            </summary>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.CustomMessageIdStrategy(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Func{RabbitMQ.Client.Events.BasicDeliverEventArgs,System.String})">
+            <summary>
+            Allows the user to control how the message ID is determined. Mostly useful when doing native integration with non-NSB endpoints.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="customIdStrategy">The user-defined strategy for giving the message a unique ID.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.TimeToWaitBeforeTriggeringCircuitBreaker(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.TimeSpan)">
+            <summary>
+            Overrides the default time to wait before triggering a circuit breaker that initiates the endpoint shutdown procedure when the message pump's connection to the broker is lost and cannot be recovered.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="waitTime">The time to wait before triggering the circuit breaker.</param>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.UsePublisherConfirms(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Boolean)">
+            <summary>
+            Specifies whether publisher confirms should be used when sending messages.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="usePublisherConfirms">Specifies whether publisher confirms should be used when sending messages.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.PrefetchMultiplier(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Int32)">
+            <summary>
+            Specifies the multiplier to apply to the maximum concurrency value to calculate the prefetch count.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="prefetchMultiplier">The multiplier value to use in the prefetch calculation.</param>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.PrefetchCount(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.UInt16)">
+            <summary>
+            Overrides the default prefetch count calculation with the specified value.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="prefetchCount">The prefetch count to use.</param>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.SetClientCertificates(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport},System.Security.Cryptography.X509Certificates.X509CertificateCollection)">
+            <summary>
+            Specifies the certificates to use for client authentication when connecting to the broker via TLS.
+            </summary>
+            <param name="transportExtensions"></param>
+            <param name="clientCertificates">The collection of certificates to use for client authentication.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NServiceBus.RabbitMQTransportSettingsExtensions.DelayedDelivery(NServiceBus.TransportExtensions{NServiceBus.RabbitMQTransport})">
+            <summary>
+            Gets the delayed delivery settings.
+            </summary>
+            <param name="transportExtensions"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
